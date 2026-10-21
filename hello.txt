@@ -1,3 +1,4 @@
 Hello, GitHUB!
 This is our first Git project.
 This is additional message from feature-hello branch.
+This is additional message from hotfix-hello branch.
