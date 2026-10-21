@@ -1,1 +1,2 @@
 Hello, GitHUB!
+This is our first Git project.
